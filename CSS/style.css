@@ -3,11 +3,6 @@ body {
     background-size: 100%;
     background-repeat: repeat;
     position: relative;
-    top: 100px;
-}
-
-.navbar {
-    top: -100px;
 }
 
 .rounded { 
